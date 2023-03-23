@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Hamza/static/css/main.073c9b0a.css",
+    "main.js": "/Hamza/static/js/main.11ed6fe0.js",
+    "static/js/787.9f8319ef.chunk.js": "/Hamza/static/js/787.9f8319ef.chunk.js",
+    "index.html": "/Hamza/index.html",
+    "main.073c9b0a.css.map": "/Hamza/static/css/main.073c9b0a.css.map",
+    "main.11ed6fe0.js.map": "/Hamza/static/js/main.11ed6fe0.js.map",
+    "787.9f8319ef.chunk.js.map": "/Hamza/static/js/787.9f8319ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.11ed6fe0.js"
+  ]
+}
